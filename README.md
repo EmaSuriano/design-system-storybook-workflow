@@ -26,6 +26,8 @@ Storybook:
   - **Variation**
     - Component
 
+To fetch data from Figma we can use --> https://github.com/braposo/figma-graphql
+
 1. Check how many stories don't have a design linked.
 2. Add new stories with the name of new pages and frames.
 
